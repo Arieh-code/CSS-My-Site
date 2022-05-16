@@ -37,7 +37,6 @@ a{
 a:hover{
     color: #EAF6F6;
     text-decoration: underline;
-    
 }
 
 hr{
@@ -87,6 +86,17 @@ p{
 
 .middle-container{
     margin: 100px 0px;
+}
+
+.Ariel{
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+.Ariel:hover{
+    color: black;
+    text-decoration: underline;
 }
 
 .bottom-container{
@@ -143,3 +153,4 @@ p{
       font-size: 0.75rem;
       padding: 20px 0;
   }
+  
