@@ -167,6 +167,7 @@ p{
     transition: transform 0.3s ease, box-shadow 0.3s ease;
     max-width: 600px;
     overflow: hidden;
+    border: 2px solid #eee; /* Added border */
   }
   
   .project:hover {
@@ -192,7 +193,9 @@ p{
     color: #777;
     margin-bottom: 15px;
   }
-  
+
+  /* new button styling*/
+
   .new-btn {
     display: inline-block;
     padding: 10px 20px;
@@ -206,6 +209,8 @@ p{
   .new-btn:hover {
     background-color: #e65c00; /* Darker shade on hover */
   }
+    
+  /* back button styling*/
 
   .back-btn {
   position: fixed;
